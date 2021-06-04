@@ -54,8 +54,7 @@ print(Fore.BLUE+"option A track-ip:                                             
 time.sleep(0.1)
 
 S = str(input(Fore.BLUE+"O P T I O N:"))
-   time.sleep(2)
-   os.system(' clear ')
+
 if 'A' in S:
    time.sleep(2)
    os.system(' clear ')
